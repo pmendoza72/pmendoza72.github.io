@@ -1,0 +1,105 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       font-family: 'Lato', sans-serif;
+       width: 960px;
+       margin: 0 auto;
+       height: 100%;
+    }
+
+    header {
+        background-color: #FF0DFF;
+        padding: 5px;
+        font-size: 30px;
+        display: block;
+        text-align: center;
+    }
+      header img {
+          width: 180px;
+          padding-right: 20px;
+          vertical-align: middle;
+      }
+    nav {
+        background-color: #08A62D;
+        font-weight: bold;
+        float: left;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    nav ul {
+        padding: ;
+        width: 100%;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        color: #ffffff;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        text-decoration: none;
+    }
+    nav li a:hover {
+        text-decoration: underline;
+  }
+    h2 {
+        font-size: 28px;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+    }
+    img {
+        width: 100%;
+    }
+    a {
+        color: ;
+    }
+    .credit {
+        font-size: 14px;
+    }
+    }
+    caption {
+
+    }
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+        margin: 40px 0;
+    }
+    section img {
+        width: 250px;
+        padding: 20px;
+    }
+
+
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 100%;
+        text-align: center;
+        background-color:#525C55;
+        padding: 15px;
+        color: #ffffff;
+        clear: both;
+        display: block;
+        margin: 30px 0;
+    }
